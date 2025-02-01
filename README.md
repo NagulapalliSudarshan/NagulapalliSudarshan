@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi there! 👋 I'm Sudarshan Nagulapalli, a Computer Science undergrad at CBIT, specializing in AI and ML.<br>🏓 National-Level TT Player<br>💻 Building cool stuff
 
+In the shinobi world it's not how you live, it's how you die: "忍びの世界では、どのように生きるかではなく、死んでどのように生きるかです" 
+                                                                                                                                - Jiraya, the Toad Sage
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudarshan-nagulapalli-79378826a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudarshan.nagulapalli@gmail.com) 

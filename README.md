@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Sudarshan Nagulapalli, a Computer Science undergrad at CBIT, specializing in AI and ML.<br>🏓 National-Level TT Player<br>💻 Building cool stuff
+Hi there! 👋 I'm Sudarshan Nagulapalli, a Computer Science undergrad at Chaitanya Bharathi Institute of Technology(CBIT), specializing in AI and ML.<br>🏓 National-Level TT Player<br>💻 Building cool stuff
 
 **Jiraiya, the Toad Sage**   
 **"忍びの世界では、どのように生きるかではなく、死んでどのように生きるかです"**  

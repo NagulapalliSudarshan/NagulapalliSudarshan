@@ -53,7 +53,7 @@ mindmap
   <a href="https://www.linkedin.com/in/sudarshan-nagulapalli-79378826a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Yash-Kavaiya" target="_blank">
+  <a href="https://github.com/NagulapalliSudarshan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://medium.com/@yash.kavaiya3" target="_blank">

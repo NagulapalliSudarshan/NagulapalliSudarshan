@@ -17,24 +17,29 @@ Hi there! 👋 I'm Sudarshan Nagulapalli, a Computer Science undergrad at Chaita
 
 ```mermaid
 mindmap
-  root((My Skills))
+  root((Tech Stack))
     Core Languages
       Python
+      Java
+      C
       JavaScript
+    Web
+      Tailwind
+      React
+      ExpressJS
+      NodeJS
+      Springboot
+    Platforms
+      Git
+      Github
+      Visual Studio Code
+      Jira
+      Confluence
+      Eclipse
+    Databases
       SQL
-    Cloud Platforms
-      Google Cloud
-      Azure
-      AWS
-    AI/ML
-      LLMs
-      Generative AI
-      RAG
-      Computer Vision
-    DevOps
-      Docker
-      Kubernetes
-      CI/CD
+      Postgres
+      MongoDB
 ```
 
 # 📊 GitHub Stats:

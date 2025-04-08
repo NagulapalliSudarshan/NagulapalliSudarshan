@@ -40,6 +40,13 @@ mindmap
       SQL
       Postgres
       MongoDB
+    ML
+      Sklearn
+      Matplotlib
+      Pandas
+      Numpy
+      Tensorflow
+      Keras
 ```
 
 # 📊 GitHub Stats:

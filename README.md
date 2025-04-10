@@ -5,9 +5,18 @@ Hi there! 👋 I'm Sudarshan Nagulapalli, a Computer Science undergrad at Chaita
 **"忍びの世界では、どのように生きるかではなく、死んでどのように生きるかです"**  
 *In the shinobi world, it's not how you live, it's how you die.*
 
+ 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25" height="25"> Connect With Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudarshan-nagulapalli-79378826a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudarshan.nagulapalli@gmail.com) 
+<div align="center">
+  <a href="https://www.linkedin.com/in/sudarshan-nagulapalli-79378826a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/NagulapalliSudarshan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NagulapalliSudarshan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -52,15 +61,3 @@ mindmap
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NagulapalliSudarshan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NagulapalliSudarshan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25" height="25"> Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sudarshan-nagulapalli-79378826a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/NagulapalliSudarshan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
